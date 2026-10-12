@@ -1,6 +1,6 @@
 # Pokesurvivor for Android
 
-Three Android WebView apps for playing [Pokesurvivor](https://pokesurvivor.com/) with a gamepad, keyboard or mouse. All include a custom adaptive launcher icon, analog movement, menu navigation and camera zoom. Manual and Auto add right-stick aiming; Homing restores the game's normal enemy targeting.
+Three Android WebView apps for playing [Pokesurvivor](https://pokesurvivor.com/) with a gamepad, keyboard or mouse. All include a custom adaptive launcher icon, analog movement, menu navigation and camera zoom. 
 
 ## Choose a version
 
